@@ -8,3 +8,7 @@ You'll want to download the "TBACraft.zip" and import it when creating a new pro
 
 ## If you use Modrinth:
 You'll want to download the "TBACraft.mrpack.zip" and "import from file" once you've unzipped it to show the individual "TBACraft.mrpack" file.
+
+
+
+I've included the user readable modlist (without versions) with links to their respective repositories in the modlist.html
