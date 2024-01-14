@@ -1,0 +1,54 @@
+Changelog:
+
+Settings-
+Fixed some of the more urgent keybind collisions as ['key']
+	-unbound YSM animation debug: []
+	-unbound YSM animation selection wheel (we have a social interaction menu on 'P'): []
+	-unbound IRIS shaderpack selection: []
+
+	-rebound SoulslikeWeaponry Trick Weapon swap: ['c']
+	-rebound Shoulder Surfing Swap Shoulder: [']']
+		-Note that this only changes the Shoulder Surfing perspective
+
+
+Distant Horizons is now disabled by default. You can turn it on by clicking the colored squares next to your FoV slider.
+
+
+Mods-
+
+Removed duplicate version of Friends and Foes (whoops)
+
+Updated Applied Energistics 2 => (15.0.19)
+Updated Almost Unified => (1.20.1-0.7.2+fabric)
+Updated EMI and EMI helpers to latest versions.
+	-EMI => (1.0.30+1.20.1+fabric)
+	-EMI Addon: Extra Mod Integrations => (0.4.2+1.20.1)
+	-EMI Loot => (0.6.5+1.20.1)
+	-EMI Trades => (fabric-1.2.1+mc1.20.1)
+	-Emiffect => (fabric-1.1.2+mc1.20.1)
+Updated Cloth Config API => (11.1.118+fabric)
+Updated CreativeCore => (2.11.16)
+	-fixes some GUI collisions and possible crashes.
+Updated Fabric API! => (0.91.0)
+Updated Farmer's Delight => (1.4.3)
+Updated Friends and Foes => (fabric-mc1.20.1-2.0.7)
+Updated Geckolib => (v4.3.1)
+Updated Let Me Despawn => (1.2.0)
+Updated MVS Moog's Voyager Structures => (4.1.1)
+	-Structures properly assign loot tables.
+Updated Modernfix => (5.11.1)
+Updated Moonlight Lib (2.8.31 => 2.8.81)
+	-Making note of Previous Version in case we need to roll back.
+Updated Pufferfish's Skills => (0.11.2)
+Updated Simply Swords => (1.51.5)
+Updated Towns and Towers (1.11.1 => 1.12)
+	-Making note of Previous Version in case it messes with generation.
+Updated Traveler's Backpack => (9.1.9)
+
+
+Notes-
+-I've skipped updating mods that updated for MC version compatibility that aren't our own, or localization.
+-Updating LibZ to (1.0.3) fixes some issues with EMI compatibility, but breaks some other mods,
+	so despite it being tagged as an essential update, we're skipping it.
+
+
